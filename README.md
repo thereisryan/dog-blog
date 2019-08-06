@@ -1,4 +1,4 @@
-# _{Hello & Goodbye World}_
+# _{Dog Blog!}_
 
 #### _{Contains a blog about a dog}, {8-6-19}_
 
